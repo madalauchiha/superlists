@@ -15,7 +15,7 @@ class NewVisitorTest(StaticLiveServerTestCase):
         #         return
 
         # cls.server_url = 'http://192.168.1.6'
-        cls.server_url = 'http://10.8.2.111'
+        cls.server_url = 'http://10.8.2.49'
         return
 
         super().setUpClass()
